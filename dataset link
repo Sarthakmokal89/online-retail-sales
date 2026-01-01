@@ -1,0 +1,14 @@
+
+## 🗂️ Dataset Description
+
+- **Source**: Online Retail II (UCI) from Kaggle  
+- **Time Period**: 2017 – 2020  
+- **Records**: 1,064 daily observations  
+- **Target Variable**: Daily number of patient admissions  
+- **Key Columns**:
+  - Date of Admission (D.O.A)
+  - Admissions count  
+
+**Dataset Link:**  
+🔗 [Online Retail II (UCI)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+    
